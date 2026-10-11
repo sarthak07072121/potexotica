@@ -29,7 +29,8 @@ Square (1:1) crop — the shop grid is a square photo above each card's text.
 |------|------|
 | `grow-1.jpg` | Exotic & rare plants |
 | `grow-2.jpg` | Potted plants |
-| `grow-3.jpg` | Pots |
+| `grow-3.jpg` | Decorative plants |
+| `grow-4.jpg` | Big plants |
 
 ### Corporate gifting proof photos
 
